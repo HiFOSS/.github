@@ -1,12 +1,46 @@
-## HiFOSS 👋
+# HiFOSS 👋
 
-<!--
+## HiFOSS开源社区官宣招募
+HiFOSS——你好！自由开源软件
+2024年2月13日，龙年新气象！新开始！
+HiFOSS开源社区官宣成立！！！
+这是一个充满创意和智慧的社区。
+现开始招募社区成员中……
+如果你善于发现开源技术，撰写开源文章，
+或者你喜欢开源社区运营，开源产品生态以及开源推广，
+欢迎热爱开源的你加入到HiFOSS开源社区大家庭。
+在HiFOSS开源社区里有着各种各样的技术大牛和有趣的小伙伴。我们可以一起分享代码、交流经验、解决问题，还可以共同打造属于我们的项目，在这里，结交更多志同道合的朋友。
+加入HiFOSS开源社区，让我们一起创造更多可能性！
 
-**Here are some ideas to get you started:**
+## HiFOSS开源社区组织架构介绍：
+### 创始人及联合创始人：
+凯宝，King rou，唐奈尘，
+磁铁，楚楚，Jack Lau
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+### 运营组：
+凯宝，胡涂涂，Jack Lau，阿豪
+
+### 技术探索组：
+King rou，磁铁，傻狍子
+
+### 人工智能组：
+Cx330，＊cx2020，胡涂涂，小笨蛋，Jack Lau
+
+### 开源教育组：
+唐奈尘，凯宝
+
+### 翻译组：
+楚楚，磁铁
+
+### 开源治理组：
+招募中……
+
+### 宣传推广组：
+褪色
+
+
+
+
+
+![image](https://github.com/HiFOSS/.github/assets/131463945/2f472245-7633-443b-b2cd-7e9f29d43d6b)
+
