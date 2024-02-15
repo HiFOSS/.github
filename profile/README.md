@@ -38,9 +38,3 @@ Cx330，＊cx2020，胡涂涂，小笨蛋，Jack Lau
 ### 宣传推广组：
 褪色
 
-
-
-
-
-![image](https://github.com/HiFOSS/.github/assets/131463945/2f472245-7633-443b-b2cd-7e9f29d43d6b)
-
