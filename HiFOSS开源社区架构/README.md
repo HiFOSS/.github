@@ -22,6 +22,10 @@ HiFOSS开源社区官宣成立！！！
 
 ### 技术探索组：
 King rou，曙光磁铁，傻狍子，独倾
+山上的雪橇，胡涂涂，山夆，hyqwan
+唐棠，Monster，晴雪凌空，Jack Lau
+Richard_Tamarisk，杜金房，Amber唐奈尘
+
 
 ### 硬件组：
 King rou，石南，Monster，白宦成（Linux中国）
