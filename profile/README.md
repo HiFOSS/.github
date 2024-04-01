@@ -1,5 +1,4 @@
-# ** HiFOSS 👋** 
-
+# HiFOSS 👋
 
 ##**HiFOSS开源社区官宣招募** 
 
